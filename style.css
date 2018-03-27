@@ -1,0 +1,50 @@
+* {
+  font-family: Helvetica;
+}
+body {
+  background-image: url("https://www.rapid-banners.com/wp-content/uploads/2013/04/map.png");
+  background-size: cover;
+}
+.Brushes, .Frames, .Paint {
+  font-size: 32px;
+  color: gray;
+  font-weight: bold;
+}
+
+.BrushesBG {
+  background-color: mediumspringgreen;
+}
+
+h1 {
+  font-size: 100px;
+  color: black;
+  opacity: 0.75;
+}
+
+.FramesBG {
+  background-color: lightcoral;
+}
+
+.PaintsBG {
+  background-color: skyblue;
+}
+
+p {
+  font-size: 17px;
+  color: black;
+}
+
+span {
+  color: rgb(185, 33, 217);
+  font-weight: bold;
+}
+
+.image {
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpuUkN10iFa0skI8zjWpALXk20rc11CRw-RDT6eHcLdFPmSijo");
+}
+.BrushesBG, .FramesBG, .PaintsBg {
+  color: gray;
+}
